@@ -1,18 +1,18 @@
 ✅ 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐜𝐡𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐖𝐞𝐛 𝐒𝐨𝐜𝐤𝐞𝐭𝐬 (𝐂𝐇𝐀𝐓𝐖𝐀𝐕𝐄-𝐀𝐏𝐏)
 
-𝐓𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐬 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐜𝐥𝐢𝐞𝐧𝐭𝐬 𝐮𝐬𝐢𝐧𝐠 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚. 
-𝐈𝐭 𝐞𝐬𝐭𝐚𝐛𝐥𝐢𝐬𝐡𝐞𝐬 𝐚 𝐟𝐮𝐥𝐥-𝐝𝐮𝐩𝐥𝐞𝐱 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐜𝐥𝐢𝐞𝐧𝐭𝐬 𝐚𝐧𝐝 𝐚 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭 𝐬𝐞𝐫𝐯𝐞𝐫, 𝐞𝐧𝐬𝐮𝐫𝐢𝐧𝐠 𝐢𝐧𝐬𝐭𝐚𝐧𝐭 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧.
+This project enables real-time communication between multiple clients using WebSockets in Java.
+It establishes a full-duplex connection between clients and a WebSocket server, ensuring instant message transmission.
 
 ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 :
-✅ 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐜𝐥𝐢𝐞𝐧𝐭𝐬
-✅ 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭𝐬-𝐛𝐚𝐬𝐞𝐝 𝐩𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
-✅ 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐛𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐭𝐨 𝐚𝐥𝐥 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐮𝐬𝐞𝐫𝐬
-✅ 𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭 𝐚𝐧𝐝 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧
-✅ 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭 𝐀𝐏𝐈
+✅ Real-time messaging between multiple clients
+✅ Persistent WebSocket connection for seamless communication
+✅ Message broadcasting to all connected users
+✅ Lightweight and scalable architecture
+✅ Front-end integration with JavaScript WebSocket API
 
 🛠️ 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒 𝐔𝐒𝐄𝐃 :
-𝐉𝐚𝐯𝐚 (𝐉𝐃𝐊 𝟏𝟏+)
-𝐉𝐚𝐤𝐚𝐫𝐭𝐚 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭 𝐀𝐏𝐈
-𝐉𝐚𝐯𝐚 𝐒𝐞𝐫𝐯𝐥𝐞𝐭𝐬 (𝐉𝐚𝐤𝐚𝐫𝐭𝐚 𝐄𝐄)
-𝐀𝐩𝐚𝐜𝐡𝐞 𝐓𝐨𝐦𝐜𝐚𝐭 (𝐨𝐫 𝐚𝐧𝐲 𝐬𝐞𝐫𝐯𝐥𝐞𝐭 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫)
-𝐇𝐓𝐌𝐋, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 (𝐂𝐥𝐢𝐞𝐧𝐭-𝐒𝐢𝐝𝐞 𝐖𝐞𝐛𝐬𝐨𝐜𝐤𝐞𝐭 𝐀𝐏𝐈)
+* Java (JDK 11+)
+* Jakarta WebSocket API
+* Java Servlets (Jakarta EE)
+* Apache Tomcat (or any servlet container)
+* HTML, JavaScript (Client-Side WebSocket API)
