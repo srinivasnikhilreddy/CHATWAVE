@@ -4,11 +4,11 @@ This project enables real-time communication between multiple clients using WebS
 It establishes a full-duplex connection between clients and a WebSocket server, ensuring instant message transmission.
 
 ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 :
-✅ Real-time messaging between multiple clients
-✅ Persistent WebSocket connection for seamless communication
-✅ Message broadcasting to all connected users
-✅ Lightweight and scalable architecture
-✅ Front-end integration with JavaScript WebSocket API
+- Real-time messaging between multiple clients
+- Persistent WebSocket connection for seamless communication
+- Message broadcasting to all connected users
+- Lightweight and scalable architecture
+- Front-end integration with JavaScript WebSocket API
 
 🛠️ 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒 𝐔𝐒𝐄𝐃 :
 * Java (JDK 11+)
@@ -16,3 +16,4 @@ It establishes a full-duplex connection between clients and a WebSocket server, 
 * Java Servlets (Jakarta EE)
 * Apache Tomcat (or any servlet container)
 * HTML, JavaScript (Client-Side WebSocket API)
+
