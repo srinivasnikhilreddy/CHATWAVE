@@ -18,3 +18,5 @@ It establishes a full-duplex connection between clients and a WebSocket server, 
 * HTML, JavaScript (Client-Side WebSocket API)
 
 
+![Image Description](https://github.com/user-attachments/assets/74b9ca03-16fc-439d-9d21-7b17f0e0b14c)
+<img src="https://github.com/user-attachments/assets/74b9ca03-16fc-439d-9d21-7b17f0e0b14c" width="600">
