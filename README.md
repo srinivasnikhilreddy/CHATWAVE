@@ -37,6 +37,13 @@ It establishes a full-duplex connection between clients and a WebSocket server, 
 ![Image](https://github.com/user-attachments/assets/245fb5bd-9464-48e0-ab8b-1595b186f13a)
 
 
+### DATABASE
+### chat profiles
+![Image](https://github.com/user-attachments/assets/f5d07b1d-ae0a-4e07-b9c3-15d724f3a072)
+
+
+### messages_info
+![Image](https://github.com/user-attachments/assets/78ac479e-7894-40d7-87ac-66ae2ece01b1)
 
 
 
